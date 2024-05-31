@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'duly',
 
   // open graph metadata (optional)
-  description: 'Duly's notion blog from China and then over',
+  description: 'Duly notion blog from China and then over',
 
   // social usernames (optional)
   twitter: 'transitive_bs',
